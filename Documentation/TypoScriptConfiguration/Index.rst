@@ -138,6 +138,7 @@ Part 1: Fluid template section
 First, create a file called :file:`Part1FluidTemplateSection.typoscript` in the
 folder :file:`Configuration/Typoscript/Setup/` with the following content:
 
+Mistake found in this File
 .. include:: /CodeSnippets/TypoScript/Part1FluidTemplateSection.rst.txt
 
 Line 1 is a comment. All lines starting with :typoscript:`//` or :typoscript:`#`
